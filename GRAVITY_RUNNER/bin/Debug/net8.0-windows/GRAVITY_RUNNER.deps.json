@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GRAVITY_RUNNER/1.0.0": {
+        "runtime": {
+          "GRAVITY_RUNNER.dll": {}
+        },
+        "resources": {
+          "dje-NE/GRAVITY_RUNNER.resources.dll": {
+            "locale": "dje-NE"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GRAVITY_RUNNER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
